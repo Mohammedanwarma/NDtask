@@ -1,0 +1,76 @@
+.nav-item:hover{
+    background-color: rgb(109, 122, 122);
+}
+img{
+    width: 50px;
+   height: 3rem;
+}
+.navbar-logo{
+   
+}
+#homepage{
+    height: 90vh;
+    /* width: 90vh; */
+    background-image:url(https://ndcurve.com/assets/images/mbr-25.png);
+    background-size: cover;
+}
+
+.eco{
+    font-style: bold;
+    font-size: 70px;
+    font-stretch:semi-expanded;
+}
+.apps{
+   font-size: large;
+}
+.bg-text{
+    backdrop-filter: 10px;
+    text-shadow: 2px 2px 2px black;
+   
+}
+
+
+.connect{
+    font-style: bold;
+    font-size: 70px;
+    font-stretch:semi-expanded;
+}
+
+
+.card-title{
+    font-style: bold;
+    
+   
+}
+.title{
+    font-size: 75px;
+    font-stretch:semi-expanded;
+    
+}
+.text-2{
+    font-size: 25px;
+}
+.ndc{
+    font-size: larger;
+}
+.google-map{
+    overflow: hidden;
+    background-color: grey;
+    position: relative;
+}
+
+
+
+
+/* .row{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    margin-left: -16px;
+    margin-right: -16px;
+    font-style: normal;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #232323;
+} */
+
